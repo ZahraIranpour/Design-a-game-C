@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Amirhossein/CLionProjects/untitled11/board.c
+board.h
+C:/Users/Amirhossein/CLionProjects/untitled11/board.h
+
+C:/Users/Amirhossein/CLionProjects/untitled11/board.h
+
+C:/Users/Amirhossein/CLionProjects/untitled11/main.c
+stdio.h
+-
+ships.c
+C:/Users/Amirhossein/CLionProjects/untitled11/ships.c
+board.c
+C:/Users/Amirhossein/CLionProjects/untitled11/board.c
+
+C:/Users/Amirhossein/CLionProjects/untitled11/ships.c
+ships.h
+C:/Users/Amirhossein/CLionProjects/untitled11/ships.h
+stdio.h
+-
+board.c
+C:/Users/Amirhossein/CLionProjects/untitled11/board.c
+
+C:/Users/Amirhossein/CLionProjects/untitled11/ships.h
+
